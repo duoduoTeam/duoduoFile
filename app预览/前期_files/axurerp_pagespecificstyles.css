@@ -1,0 +1,778 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_container {
+    position:absolute;
+    left:101px;
+    top:10px;
+    width:794px;
+    height:1487px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:794px;
+    height:1487px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:736px;
+    width:790px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../前期_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:181px;
+    top:402px;
+    width:641px;
+    height:734px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:647px;
+    height:740px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:359px;
+    width:637px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../前期_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:183px;
+    top:402px;
+    width:639px;
+    height:734px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:645px;
+    height:740px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:359px;
+    width:635px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6_line {
+    background-image: url('../前期_files/u6_line.png');
+}
+
+.u6_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:639px;
+    height:3px;
+}
+
+.u6 {
+    position:absolute;
+    left:183px;
+    top:1131px;
+    width:639px;
+    height:10px;
+    
+}
+
+.u7_normal {
+    background-image: url('../前期_files/u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:183px;
+    top:316px;
+    width:639px;
+    height:86px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:645px;
+    height:92px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:24px;
+    width:635px;
+    height:39px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../前期_files/u9_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:203px;
+    top:340px;
+    width:38px;
+    height:38px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:44px;
+    height:44px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:34px;
+    height:20px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../前期_files/u11_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:183px;
+    top:402px;
+    width:639px;
+    height:50px;
+}
+
+#u11_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:645px;
+    height:56px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:635px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_normal {
+    background-image: url('../前期_files/u13_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:183px;
+    top:402px;
+    width:320px;
+    height:50px;
+}
+
+#u13_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:326px;
+    height:56px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:316px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../前期_files/u15_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:503px;
+    top:402px;
+    width:319px;
+    height:50px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:325px;
+    height:56px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:315px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:82px;
+    height:25px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:82px;
+    height:25px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_normal {
+    background-image: url('../前期_files/u21_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:435px;
+    top:759px;
+    width:142px;
+    height:142px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:148px;
+    height:148px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:63px;
+    width:138px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../前期_files/u23_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:598px;
+    top:759px;
+    width:142px;
+    height:142px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:148px;
+    height:148px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:63px;
+    width:138px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../前期_files/u25_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:265px;
+    top:941px;
+    width:142px;
+    height:142px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:148px;
+    height:148px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:63px;
+    width:138px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_normal {
+    background-image: url('../前期_files/u27_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:387px;
+    top:497px;
+    width:101px;
+    height:123px;
+}
+
+#u27_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:101px;
+    height:123px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:54px;
+    width:97px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_normal {
+    background-image: url('../前期_files/u29_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:523px;
+    top:497px;
+    width:94px;
+    height:123px;
+}
+
+#u29_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:94px;
+    height:123px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:54px;
+    width:90px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:387px;
+    top:628px;
+    width:101px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32 {
+    position:absolute;
+    left:523px;
+    top:628px;
+    width:94px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33_line {
+    background-image: url('../前期_files/u33_line.png');
+}
+
+.u33_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:639px;
+    height:3px;
+}
+
+.u33 {
+    position:absolute;
+    left:183px;
+    top:672px;
+    width:639px;
+    height:10px;
+    
+}
+
+.u34_normal {
+    background-image: url('../前期_files/u34_normal.png');
+}
+
+.u34_container {
+    position:absolute;
+    left:265px;
+    top:759px;
+    width:142px;
+    height:142px;
+}
+
+#u34_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:148px;
+    height:148px;
+}
+
+.u35 {
+    position:absolute;
+    left:2px;
+    top:63px;
+    width:138px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36_normal {
+    background-image: url('../前期_files/u36_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:214px;
+    top:497px;
+    width:47px;
+    height:36px;
+}
+
+#u36_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:47px;
+    height:36px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:43px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38 {
+    position:absolute;
+    left:471px;
+    top:452px;
+    width:32px;
+    height:76px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39_normal {
+    background-image: url('../前期_files/u39_normal.png');
+}
+
+.u39_container {
+    position:absolute;
+    left:182px;
+    top:1136px;
+    width:640px;
+    height:97px;
+}
+
+#u39_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:640px;
+    height:97px;
+}
+
+.u40 {
+    position:absolute;
+    left:2px;
+    top:40px;
+    width:636px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41_normal {
+    background-image: url('../前期_files/u41_normal.png');
+}
+
+.u41_container {
+    position:absolute;
+    left:470px;
+    top:1146px;
+    width:39px;
+    height:36px;
+}
+
+#u41_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:39px;
+    height:36px;
+}
+
+.u42 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:35px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43_normal {
+    background-image: url('../前期_files/u43_normal.png');
+}
+
+.u43_container {
+    position:absolute;
+    left:682px;
+    top:1148px;
+    width:39px;
+    height:33px;
+}
+
+#u43_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:39px;
+    height:33px;
+}
+
+.u44 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:35px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45_normal {
+    background-image: url('../前期_files/u45_normal.png');
+}
+
+.u45_container {
+    position:absolute;
+    left:277px;
+    top:1150px;
+    width:38px;
+    height:32px;
+}
+
+#u45_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:38px;
+    height:32px;
+}
+
+.u46 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:34px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
