@@ -1,0 +1,19 @@
+首页：http://www.zhmeiye.com/
+
+空间管理地址:http://cp.hichina.com
+
+
+主机类型： M享主机-M3(云)  
+主机域名： zhmeiye.com  
+管理员账号： hmu178089  
+管理员密码： abc123456 
+操作系统： Unix  
+主机机房： 杭州机房  
+主机原空间大小： 1024M   
+IP地址： 121.197.90.89 
+数据库类型： Mysql 
+数据库名称： hdm0950422_db 
+用户名： hdm0950422 
+密码： m4r6o3i4o2        max admin
+数据库地址： hdm-095.hichina.com 
+
