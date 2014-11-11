@@ -1,12 +1,12 @@
 ﻿$axure.loadCurrentPage({
-  "url":"流程3.html",
-  "generationDate":new Date(1415687654470.87),
+  "url":"流程新.html",
+  "generationDate":new Date(1415687654803.89),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"0006c9956751439b8cdade46482a2deb",
+    "packageId":"8a7537c4b5a94a5982fa988de0e69d2e",
     "type":"Axure:Page",
-    "name":"流程3",
+    "name":"流程新",
     "notes":{
 },
     "style":{
@@ -30,7 +30,7 @@
 },
     "diagram":{
       "objects":[{
-          "id":"6f90d823f1e84e72af585a268236f173",
+          "id":"56d91e246a5d43599465731298d0c95c",
           "label":"",
           "type":"referenceDiagramObject",
           "styleType":"referenceDiagramObject",
@@ -46,7 +46,7 @@
 },
           "masterId":"984fa132bdee4430802a486dd3e5c298"},
 {
-          "id":"64f353560c794e3e8a383194d727ab72",
+          "id":"536d0d100dca4134ab06fed9ada44ef8",
           "label":"",
           "type":"buttonShape",
           "styleType":"buttonShape",
@@ -54,31 +54,20 @@
           "style":{
             "fill":{
               "fillType":"solid",
-              "color":0xFF99CCCC},
+              "color":0xFF333333},
             "location":{
-              "x":220,
-              "y":450},
+              "x":181,
+              "y":1140},
             "size":{
-              "width":120,
-              "height":60},
+              "width":643,
+              "height":100},
             "borderFill":{
               "fillType":"solid",
-              "color":0xFFFFFF},
-            "cornerRadiusTopLeft":"30",
-            "outerShadow":{
-              "on":true,
-              "offsetX":5,
-              "offsetY":5,
-              "blurRadius":5,
-              "color":{
-                "r":0,
-                "g":0,
-                "b":0,
-                "a":0.349019607843137}}},
+              "color":0xFFFFFF}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"d01cd3d639694fb2be5641714d361082",
+              "id":"724ebb9bb0b14046b17dd5c09ee35313",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -87,102 +76,121 @@
               "style":{
                 "fill":{
                   "fillType":"solid",
-                  "color":0xFF99CCCC},
+                  "color":0xFF333333},
                 "location":{
-                  "x":220,
-                  "y":450},
+                  "x":181,
+                  "y":1140},
                 "size":{
-                  "width":120,
-                  "height":60},
+                  "width":643,
+                  "height":100},
                 "borderFill":{
                   "fillType":"solid",
-                  "color":0xFFFFFF},
-                "cornerRadiusTopLeft":"30",
-                "outerShadow":{
-                  "on":true,
-                  "offsetX":5,
-                  "offsetY":5,
-                  "blurRadius":5,
-                  "color":{
-                    "r":0,
-                    "g":0,
-                    "b":0,
-                    "a":0.349019607843137}}},
+                  "color":0xFFFFFF}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/流程3/u21.png"}},
+            "normal~":"images/流程新/u21.png"}},
 {
-          "id":"3462443419254392b60ccff835758c29",
+          "id":"46fcf42d70f141fa9925795c82013b9b",
           "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
+          "type":"imageBox",
+          "styleType":"imageBox",
           "visible":true,
           "style":{
-            "horizontalAlignment":"left",
-            "verticalAlignment":"top",
-            "fill":{
-              "fillType":"solid",
-              "color":0xFFF2F2F2},
             "location":{
-              "x":340,
-              "y":450},
+              "x":230,
+              "y":1147},
             "size":{
-              "width":420,
-              "height":420},
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFFFFFF},
-            "outerShadow":{
-              "on":true,
-              "offsetX":5,
-              "offsetY":5,
-              "blurRadius":5,
-              "color":{
-                "r":0,
-                "g":0,
-                "b":0,
-                "a":0.349019607843137}}},
+              "width":97,
+              "height":93}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"055a92a85ad74e9fa72980a574bbfb38",
+              "id":"5a0169d35fca4f8893de9f6373e442a2",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "horizontalAlignment":"left",
-                "verticalAlignment":"top",
-                "fill":{
-                  "fillType":"solid",
-                  "color":0xFFF2F2F2},
                 "location":{
-                  "x":340,
-                  "y":450},
+                  "x":230,
+                  "y":1147},
                 "size":{
-                  "width":420,
-                  "height":420},
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFFFFFF},
-                "outerShadow":{
-                  "on":true,
-                  "offsetX":5,
-                  "offsetY":5,
-                  "blurRadius":5,
-                  "color":{
-                    "r":0,
-                    "g":0,
-                    "b":0,
-                    "a":0.349019607843137}}},
+                  "width":97,
+                  "height":93}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/流程3/u23.png"}},
+            "normal~":"images/流程新/u23.png"}},
 {
-          "id":"1c9cf19ec1134f16a34be75fbb93126c",
+          "id":"13b50a344b1b43d4b308bbbed7fe1dc7",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":438,
+              "y":1143},
+            "size":{
+              "width":95,
+              "height":94}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ee54a70fb6ab4f2fa25d1daa69c85048",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":438,
+                  "y":1143},
+                "size":{
+                  "width":95,
+                  "height":94}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/流程新/u25.png"}},
+{
+          "id":"1efd341041db4ba8a133bcdae5b46164",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":660,
+              "y":1144},
+            "size":{
+              "width":98,
+              "height":93}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"509974f981314ac0b9db1d11cbbb2038",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":660,
+                  "y":1144},
+                "size":{
+                  "width":98,
+                  "height":93}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/流程新/u27.png"}},
+{
+          "id":"f462e4e48ae743399d739a75bc0820ff",
           "label":"",
           "type":"buttonShape",
           "styleType":"buttonShape",
@@ -190,21 +198,20 @@
           "style":{
             "fill":{
               "fillType":"solid",
-              "color":0xCCC4E1FF},
+              "color":0xFFE5E5E5},
             "location":{
-              "x":386,
-              "y":500},
+              "x":181,
+              "y":370},
             "size":{
-              "width":150,
-              "height":150},
+              "width":643,
+              "height":770},
             "borderFill":{
               "fillType":"solid",
-              "color":0xFFFFFF},
-            "cornerRadiusTopLeft":"13"},
+              "color":0xFFFFFF}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"fe921cff6021486bb7bd3a1935105d78",
+              "id":"94f02d1086ee4ec5b9d7a4cb1d14bfb9",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
@@ -213,17 +220,115 @@
               "style":{
                 "fill":{
                   "fillType":"solid",
-                  "color":0xCCC4E1FF},
+                  "color":0xFFE5E5E5},
                 "location":{
-                  "x":386,
-                  "y":500},
+                  "x":181,
+                  "y":370},
                 "size":{
-                  "width":150,
-                  "height":150},
+                  "width":643,
+                  "height":770},
                 "borderFill":{
                   "fillType":"solid",
-                  "color":0xFFFFFF},
-                "cornerRadiusTopLeft":"13"},
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/流程新/u29.png"}},
+{
+          "id":"9a5deaca854a477282ee9303dd679f37",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":236,
+              "y":550},
+            "size":{
+              "width":554,
+              "height":478}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f46f1315858b4c7c8748a5d337f61473",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":236,
+                  "y":550},
+                "size":{
+                  "width":554,
+                  "height":478}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/流程新/u31.png"}},
+{
+          "id":"7b4e663c77f14bf78408223775cb6cc4",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":181,
+              "y":314},
+            "size":{
+              "width":643,
+              "height":56}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"46ad6b27f9fd442f8a3bafa5b605b3a3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":181,
+                  "y":314},
+                "size":{
+                  "width":643,
+                  "height":56}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/流程新/u33.png"}},
+{
+          "id":"46434533c58a4b28931531f25dd28061",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":760,
+              "y":319.5},
+            "size":{
+              "width":54,
+              "height":45}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"92cef07cb93441bc8d186246b7ff6a7c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":760,
+                  "y":319.5},
+                "size":{
+                  "width":54,
+                  "height":45}},
               "adaptiveStyles":{
 }}],
           "interactionMap":{
@@ -234,511 +339,360 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 确定施工方式简介",
+                      "description":"在 当前窗口 打开 切换状态",
                       "target":{
                         "targetType":"page",
-                        "url":"确定施工方式简介.html",
+                        "url":"切换状态.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/流程3/u25.png"}},
+            "normal~":"images/流程新/u35.png"}},
 {
-          "id":"4aeb27f3e897463ab6d0a00b01c9cba3",
+          "id":"f97cdce5d42f4c4aa01341d28a866b1d",
           "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
+          "type":"imageBox",
+          "styleType":"imageBox",
           "visible":true,
           "style":{
-            "fill":{
-              "fillType":"solid",
-              "color":0xFF9DCEFF},
             "location":{
-              "x":550,
-              "y":500},
+              "x":442,
+              "y":323},
             "size":{
-              "width":150,
-              "height":150},
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFFFFFF},
-            "cornerRadiusTopLeft":"14"},
+              "width":121,
+              "height":39}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"8426f0a619b5482d846547f71d803ed1",
+              "id":"7ce958c1c27f4e9991cf00d8de1ef28e",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fill":{
-                  "fillType":"solid",
-                  "color":0xFF9DCEFF},
                 "location":{
-                  "x":550,
-                  "y":500},
+                  "x":442,
+                  "y":323},
                 "size":{
-                  "width":150,
-                  "height":150},
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFFFFFF},
-                "cornerRadiusTopLeft":"14"},
+                  "width":121,
+                  "height":39}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/流程3/u27.png"}},
+            "normal~":"images/流程新/u37.png"}},
 {
-          "id":"f69e2f133e85496794db85a7fe4ef347",
+          "id":"ba3ed01c864a4d7dbe7282d0d303381b",
           "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
+          "type":"imageBox",
+          "styleType":"imageBox",
           "visible":true,
           "style":{
-            "fill":{
-              "fillType":"solid",
-              "color":0xFF71B8FF},
             "location":{
-              "x":386,
-              "y":660},
+              "x":190,
+              "y":321},
             "size":{
-              "width":150,
-              "height":150},
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFFFFFF},
-            "cornerRadiusTopLeft":"13"},
+              "width":56,
+              "height":42}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"65668835632b48a98d88b8655fb2d272",
+              "id":"eb48195f545d4eea83c5df4e226dc6cf",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fill":{
-                  "fillType":"solid",
-                  "color":0xFF71B8FF},
                 "location":{
-                  "x":386,
-                  "y":660},
+                  "x":190,
+                  "y":321},
                 "size":{
-                  "width":150,
-                  "height":150},
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFFFFFF},
-                "cornerRadiusTopLeft":"13"},
+                  "width":56,
+                  "height":42}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/流程3/u29.png"}},
+            "normal~":"images/流程新/u39.png"}},
 {
-          "id":"57ca6e456abd4ef5bdb96b617833544b",
+          "id":"005dcf8832234997a86d607866dd6943",
           "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
+          "type":"imageBox",
+          "styleType":"imageBox",
           "visible":true,
           "style":{
-            "fill":{
-              "fillType":"solid",
-              "color":0xFFCCCCCC},
             "location":{
-              "x":550,
-              "y":660},
+              "x":243,
+              "y":385},
             "size":{
-              "width":150,
-              "height":150},
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFFFFFF},
-            "cornerRadiusTopLeft":"14"},
+              "width":542,
+              "height":155}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"8a745986a35045d68becde3b4a7574a5",
+              "id":"fca390ad1d8040c480b0518ac1bff151",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fill":{
-                  "fillType":"solid",
-                  "color":0xFFCCCCCC},
                 "location":{
-                  "x":550,
-                  "y":660},
+                  "x":243,
+                  "y":385},
                 "size":{
-                  "width":150,
-                  "height":150},
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFFFFFF},
-                "cornerRadiusTopLeft":"14"},
+                  "width":542,
+                  "height":155}},
               "adaptiveStyles":{
 }}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 开工准备",
-                      "target":{
-                        "targetType":"page",
-                        "url":"开工准备.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
           "images":{
-            "normal~":"images/流程3/u31.png"}},
+            "normal~":"images/流程新/u41.png"}},
 {
-          "id":"434861a9d207433785fb01e847f3bc05",
+          "id":"2a56a604a41e41909995438ce879ea46",
           "label":"",
           "type":"buttonShape",
-          "styleType":"buttonShape",
+          "styleType":"h2",
           "visible":true,
           "style":{
-            "fontSize":"33px",
-            "fill":{
+            "foreGroundFill":{
               "fillType":"solid",
-              "color":0xFFF8F8F8},
+              "color":0xFF434343,
+              "opacity":1},
             "location":{
-              "x":180,
-              "y":317},
+              "x":620,
+              "y":692},
             "size":{
-              "width":639,
-              "height":86}},
+              "width":97,
+              "height":28}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"89611502c5624bd99f133fe3b4872687",
+              "id":"a0f84f6797c04bdca491e6b0081ad6ff",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontSize":"33px",
-                "fill":{
+                "foreGroundFill":{
                   "fillType":"solid",
-                  "color":0xFFF8F8F8},
+                  "color":0xFF434343,
+                  "opacity":1},
                 "location":{
-                  "x":180,
-                  "y":317},
+                  "x":620,
+                  "y":692},
                 "size":{
-                  "width":639,
-                  "height":86}},
+                  "width":97,
+                  "height":28}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/主页/u20.png"}},
+            "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"0225ff440e8c4471b65fd4fc99f53d7d",
+          "id":"e734b557eec74c71be6523b4c27d64e9",
           "label":"",
           "type":"buttonShape",
-          "styleType":"buttonShape",
+          "styleType":"h2",
           "visible":true,
           "style":{
-            "fontName":"'Arial Negreta', 'Arial'",
-            "fontSize":"17px",
-            "fontWeight":"bold",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF434343,
+              "opacity":1},
             "location":{
-              "x":200,
-              "y":341},
+              "x":620,
+              "y":842},
             "size":{
-              "width":38,
-              "height":38}},
+              "width":97,
+              "height":28}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"c457e8c0617f436aa0ecec746b706dea",
+              "id":"9cf280c068f246ad8a5a3e373197e1ef",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fontName":"'Arial Negreta', 'Arial'",
-                "fontSize":"17px",
-                "fontWeight":"bold",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF434343,
+                  "opacity":1},
                 "location":{
-                  "x":200,
-                  "y":341},
+                  "x":620,
+                  "y":842},
                 "size":{
-                  "width":38,
-                  "height":38}},
+                  "width":97,
+                  "height":28}},
               "adaptiveStyles":{
 }}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkFrame",
-                      "description":"打开 相簿 在父窗口",
-                      "linkType":"parentFrame",
-                      "target":{
-                        "targetType":"page",
-                        "url":"相簿.html",
-                        "includeVariables":true}}]}]}},
-          "tabbable":true,
           "images":{
-            "normal~":"images/装修流程/u32.png"}},
+            "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"9775604a20494932885abc194aefebc0",
+          "id":"928df0bd189a41a88588aac17308a996",
           "label":"",
           "type":"buttonShape",
-          "styleType":"buttonShape",
+          "styleType":"h2",
           "visible":true,
           "style":{
-            "fill":{
+            "foreGroundFill":{
               "fillType":"solid",
-              "color":0xFF99CCCC},
+              "color":0xFFFFFFFF,
+              "opacity":1},
             "location":{
-              "x":220,
-              "y":910},
+              "x":320,
+              "y":692},
             "size":{
-              "width":120,
-              "height":60},
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFFFFFF},
-            "cornerRadiusTopLeft":"30",
-            "outerShadow":{
-              "on":true,
-              "offsetX":5,
-              "offsetY":5,
-              "blurRadius":5,
-              "color":{
-                "r":0,
-                "g":0,
-                "b":0,
-                "a":0.349019607843137}}},
+              "width":97,
+              "height":28}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"887ba260208c4d048e15ec23ea83f7ee",
+              "id":"e79cff07289148b5bcad403cb888a968",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fill":{
+                "foreGroundFill":{
                   "fillType":"solid",
-                  "color":0xFF99CCCC},
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
                 "location":{
-                  "x":220,
-                  "y":910},
+                  "x":320,
+                  "y":692},
                 "size":{
-                  "width":120,
-                  "height":60},
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFFFFFF},
-                "cornerRadiusTopLeft":"30",
-                "outerShadow":{
-                  "on":true,
-                  "offsetX":5,
-                  "offsetY":5,
-                  "blurRadius":5,
-                  "color":{
-                    "r":0,
-                    "g":0,
-                    "b":0,
-                    "a":0.349019607843137}}},
+                  "width":97,
+                  "height":28}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/流程3/u21.png"}},
+            "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"4018883b1ea740f4a06fa7dcfc206c49",
+          "id":"feddad8a430d477b98b1b8e96ded1867",
           "label":"",
           "type":"buttonShape",
-          "styleType":"buttonShape",
+          "styleType":"h2",
           "visible":true,
           "style":{
-            "horizontalAlignment":"left",
-            "verticalAlignment":"top",
-            "fill":{
+            "foreGroundFill":{
               "fillType":"solid",
-              "color":0xFFF2F2F2},
+              "color":0xFFFFFFFF,
+              "opacity":1},
             "location":{
-              "x":340,
-              "y":910},
+              "x":466,
+              "y":692},
             "size":{
-              "width":420,
-              "height":230},
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFFFFFF},
-            "outerShadow":{
-              "on":true,
-              "offsetX":5,
-              "offsetY":5,
-              "blurRadius":5,
-              "color":{
-                "r":0,
-                "g":0,
-                "b":0,
-                "a":0.349019607843137}}},
+              "width":97,
+              "height":28}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"6dcb236139f1402ea83956e9b3a44a59",
+              "id":"14a44abc3802417db9806635afe29cb1",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "horizontalAlignment":"left",
-                "verticalAlignment":"top",
-                "fill":{
+                "foreGroundFill":{
                   "fillType":"solid",
-                  "color":0xFFF2F2F2},
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
                 "location":{
-                  "x":340,
-                  "y":910},
+                  "x":466,
+                  "y":692},
                 "size":{
-                  "width":420,
-                  "height":230},
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFFFFFF},
-                "outerShadow":{
-                  "on":true,
-                  "offsetX":5,
-                  "offsetY":5,
-                  "blurRadius":5,
-                  "color":{
-                    "r":0,
-                    "g":0,
-                    "b":0,
-                    "a":0.349019607843137}}},
+                  "width":97,
+                  "height":28}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/流程3/u39.png"}},
+            "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"0b4191cef0484dc8acfb5a6c174a980a",
+          "id":"d5b7cb0da88a454a9b4f6f9833a51ef8",
           "label":"",
           "type":"buttonShape",
-          "styleType":"buttonShape",
+          "styleType":"h2",
           "visible":true,
           "style":{
-            "fill":{
+            "foreGroundFill":{
               "fillType":"solid",
-              "color":0xCCC4E1FF},
+              "color":0xFFFFFFFF,
+              "opacity":1},
             "location":{
-              "x":394,
-              "y":970},
+              "x":320,
+              "y":842},
             "size":{
-              "width":150,
-              "height":150},
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFFFFFF},
-            "cornerRadiusTopLeft":"13"},
+              "width":97,
+              "height":28}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"e3dbc83c74b347f687901d8226311222",
+              "id":"bd7c18326ff14e5383b04074c1eb9fc5",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fill":{
+                "foreGroundFill":{
                   "fillType":"solid",
-                  "color":0xCCC4E1FF},
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
                 "location":{
-                  "x":394,
-                  "y":970},
+                  "x":320,
+                  "y":842},
                 "size":{
-                  "width":150,
-                  "height":150},
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFFFFFF},
-                "cornerRadiusTopLeft":"13"},
+                  "width":97,
+                  "height":28}},
               "adaptiveStyles":{
 }}],
-          "interactionMap":{
-            "onClick":{
-              "description":"OnClick",
-              "cases":[{
-                  "description":"用例 1",
-                  "isNewIfGroup":false,
-                  "actions":[{
-                      "action":"linkWindow",
-                      "description":"在 当前窗口 打开 确定施工方式简介",
-                      "target":{
-                        "targetType":"page",
-                        "url":"确定施工方式简介.html",
-                        "includeVariables":true},
-                      "linkType":"current"}]}]}},
-          "tabbable":true,
           "images":{
-            "normal~":"images/流程3/u25.png"}},
+            "normal~":"resources/images/transparent.gif"}},
 {
-          "id":"fe73f2f90a494fb18a3cf59efa812086",
+          "id":"f2ad44fbac5c4b82879cd5e14a495290",
           "label":"",
           "type":"buttonShape",
-          "styleType":"buttonShape",
+          "styleType":"h2",
           "visible":true,
           "style":{
-            "fill":{
+            "foreGroundFill":{
               "fillType":"solid",
-              "color":0xFF9DCEFF},
+              "color":0xFFFFFFFF,
+              "opacity":1},
             "location":{
-              "x":558,
-              "y":970},
+              "x":466,
+              "y":842},
             "size":{
-              "width":150,
-              "height":150},
-            "borderFill":{
-              "fillType":"solid",
-              "color":0xFFFFFF},
-            "cornerRadiusTopLeft":"14"},
+              "width":97,
+              "height":28}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"b6355a6eafe14f78941ef5d34e9ce790",
+              "id":"52f4d0c6532540fb99f33aa457c0c5cf",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
               "styleType":"paragraph",
               "visible":true,
               "style":{
-                "fill":{
+                "foreGroundFill":{
                   "fillType":"solid",
-                  "color":0xFF9DCEFF},
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
                 "location":{
-                  "x":558,
-                  "y":970},
+                  "x":466,
+                  "y":842},
                 "size":{
-                  "width":150,
-                  "height":150},
-                "borderFill":{
-                  "fillType":"solid",
-                  "color":0xFFFFFF},
-                "cornerRadiusTopLeft":"14"},
+                  "width":97,
+                  "height":28}},
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/流程3/u27.png"}}]}},
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
     "984fa132bdee4430802a486dd3e5c298":{
       "packageId":"984fa132bdee4430802a486dd3e5c298",
@@ -1230,7 +1184,7 @@
             "images":{
               "normal~":"images/确定施工方式简介/u19.png"}}]}}},
   "objectPaths":{
-    "6f90d823f1e84e72af585a268236f173":{
+    "56d91e246a5d43599465731298d0c95c":{
       "scriptId":"u0",
       "0924992c31c149048016d672e5c7f726":{
         "scriptId":"u1"},
@@ -1272,51 +1226,71 @@
         "scriptId":"u19"},
       "24509502b78240de82bb50d987c9e129":{
         "scriptId":"u20"}},
-    "64f353560c794e3e8a383194d727ab72":{
+    "536d0d100dca4134ab06fed9ada44ef8":{
       "scriptId":"u21"},
-    "d01cd3d639694fb2be5641714d361082":{
+    "724ebb9bb0b14046b17dd5c09ee35313":{
       "scriptId":"u22"},
-    "3462443419254392b60ccff835758c29":{
+    "46fcf42d70f141fa9925795c82013b9b":{
       "scriptId":"u23"},
-    "055a92a85ad74e9fa72980a574bbfb38":{
+    "5a0169d35fca4f8893de9f6373e442a2":{
       "scriptId":"u24"},
-    "1c9cf19ec1134f16a34be75fbb93126c":{
+    "13b50a344b1b43d4b308bbbed7fe1dc7":{
       "scriptId":"u25"},
-    "fe921cff6021486bb7bd3a1935105d78":{
+    "ee54a70fb6ab4f2fa25d1daa69c85048":{
       "scriptId":"u26"},
-    "4aeb27f3e897463ab6d0a00b01c9cba3":{
+    "1efd341041db4ba8a133bcdae5b46164":{
       "scriptId":"u27"},
-    "8426f0a619b5482d846547f71d803ed1":{
+    "509974f981314ac0b9db1d11cbbb2038":{
       "scriptId":"u28"},
-    "f69e2f133e85496794db85a7fe4ef347":{
+    "f462e4e48ae743399d739a75bc0820ff":{
       "scriptId":"u29"},
-    "65668835632b48a98d88b8655fb2d272":{
+    "94f02d1086ee4ec5b9d7a4cb1d14bfb9":{
       "scriptId":"u30"},
-    "57ca6e456abd4ef5bdb96b617833544b":{
+    "9a5deaca854a477282ee9303dd679f37":{
       "scriptId":"u31"},
-    "8a745986a35045d68becde3b4a7574a5":{
+    "f46f1315858b4c7c8748a5d337f61473":{
       "scriptId":"u32"},
-    "434861a9d207433785fb01e847f3bc05":{
+    "7b4e663c77f14bf78408223775cb6cc4":{
       "scriptId":"u33"},
-    "89611502c5624bd99f133fe3b4872687":{
+    "46ad6b27f9fd442f8a3bafa5b605b3a3":{
       "scriptId":"u34"},
-    "0225ff440e8c4471b65fd4fc99f53d7d":{
+    "46434533c58a4b28931531f25dd28061":{
       "scriptId":"u35"},
-    "c457e8c0617f436aa0ecec746b706dea":{
+    "92cef07cb93441bc8d186246b7ff6a7c":{
       "scriptId":"u36"},
-    "9775604a20494932885abc194aefebc0":{
+    "f97cdce5d42f4c4aa01341d28a866b1d":{
       "scriptId":"u37"},
-    "887ba260208c4d048e15ec23ea83f7ee":{
+    "7ce958c1c27f4e9991cf00d8de1ef28e":{
       "scriptId":"u38"},
-    "4018883b1ea740f4a06fa7dcfc206c49":{
+    "ba3ed01c864a4d7dbe7282d0d303381b":{
       "scriptId":"u39"},
-    "6dcb236139f1402ea83956e9b3a44a59":{
+    "eb48195f545d4eea83c5df4e226dc6cf":{
       "scriptId":"u40"},
-    "0b4191cef0484dc8acfb5a6c174a980a":{
+    "005dcf8832234997a86d607866dd6943":{
       "scriptId":"u41"},
-    "e3dbc83c74b347f687901d8226311222":{
+    "fca390ad1d8040c480b0518ac1bff151":{
       "scriptId":"u42"},
-    "fe73f2f90a494fb18a3cf59efa812086":{
+    "2a56a604a41e41909995438ce879ea46":{
       "scriptId":"u43"},
-    "b6355a6eafe14f78941ef5d34e9ce790":{
-      "scriptId":"u44"}}});
+    "a0f84f6797c04bdca491e6b0081ad6ff":{
+      "scriptId":"u44"},
+    "e734b557eec74c71be6523b4c27d64e9":{
+      "scriptId":"u45"},
+    "9cf280c068f246ad8a5a3e373197e1ef":{
+      "scriptId":"u46"},
+    "928df0bd189a41a88588aac17308a996":{
+      "scriptId":"u47"},
+    "e79cff07289148b5bcad403cb888a968":{
+      "scriptId":"u48"},
+    "feddad8a430d477b98b1b8e96ded1867":{
+      "scriptId":"u49"},
+    "14a44abc3802417db9806635afe29cb1":{
+      "scriptId":"u50"},
+    "d5b7cb0da88a454a9b4f6f9833a51ef8":{
+      "scriptId":"u51"},
+    "bd7c18326ff14e5383b04074c1eb9fc5":{
+      "scriptId":"u52"},
+    "f2ad44fbac5c4b82879cd5e14a495290":{
+      "scriptId":"u53"},
+    "52f4d0c6532540fb99f33aa457c0c5cf":{
+      "scriptId":"u54"}}});

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"聊天列表.html",
-  "generationDate":new Date(1414464500023.01),
+  "generationDate":new Date(1415687653482.81),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

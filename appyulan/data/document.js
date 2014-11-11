@@ -63,7 +63,11 @@
 {
             "pageName":"切换状态",
             "type":"Wireframe",
-            "url":"切换状态.html"}]}]},
+            "url":"切换状态.html"},
+{
+            "pageName":"流程新",
+            "type":"Wireframe",
+            "url":"流程新.html"}]}]},
   "globalVariables":{
     "onloadvariable":""},
   "defaultAdaptiveView":{

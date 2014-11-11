@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"确定施工方式简介.html",
-  "generationDate":new Date(1414464499387.97),
+  "generationDate":new Date(1415687652814.78),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

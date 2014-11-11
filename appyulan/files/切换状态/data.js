@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"切换状态.html",
-  "generationDate":new Date(1414464501402.09),
+  "generationDate":new Date(1415687654613.88),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -838,7 +838,149 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/切换状态/u39.png"}}]}},
+            "normal~":"images/切换状态/u39.png"}},
+{
+          "id":"a85a6d83767740b0ad3b878cf84422f0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":510,
+              "y":318},
+            "size":{
+              "width":80,
+              "height":43},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"79af1901ea2f4d9cbb7403d772f28c5d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":510,
+                  "y":318},
+                "size":{
+                  "width":80,
+                  "height":43},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 流程新",
+                      "target":{
+                        "targetType":"page",
+                        "url":"流程新.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]},
+{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 流程新",
+                      "target":{
+                        "targetType":"page",
+                        "url":"流程新.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"a642f81ce745448b95d4a2a079a6a388",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":620,
+              "y":366},
+            "size":{
+              "width":199,
+              "height":43},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cb935fc85ed642d68f58b8e8f277746e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":620,
+                  "y":366},
+                "size":{
+                  "width":199,
+                  "height":43},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 流程新",
+                      "target":{
+                        "targetType":"page",
+                        "url":"流程新.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]},
+{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 流程新",
+                      "target":{
+                        "targetType":"page",
+                        "url":"流程新.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
   "masters":{
 },
   "objectPaths":{
@@ -923,4 +1065,12 @@
     "69e280641bb343e7bcb5e0727aba96b1":{
       "scriptId":"u39"},
     "30b7d32d05fd40379b703b32ced9d5e0":{
-      "scriptId":"u40"}}});
+      "scriptId":"u40"},
+    "a85a6d83767740b0ad3b878cf84422f0":{
+      "scriptId":"u41"},
+    "79af1901ea2f4d9cbb7403d772f28c5d":{
+      "scriptId":"u42"},
+    "a642f81ce745448b95d4a2a079a6a388":{
+      "scriptId":"u43"},
+    "cb935fc85ed642d68f58b8e8f277746e":{
+      "scriptId":"u44"}}});

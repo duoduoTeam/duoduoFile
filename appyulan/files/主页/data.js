@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"主页.html",
-  "generationDate":new Date(1414464498868.94),
+  "generationDate":new Date(1415687652239.74),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -586,10 +586,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 登陆页",
+                      "description":"在 当前窗口 打开 流程新",
                       "target":{
                         "targetType":"page",
-                        "url":"登陆页.html",
+                        "url":"流程新.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,

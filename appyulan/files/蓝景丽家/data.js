@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"蓝景丽家.html",
-  "generationDate":new Date(1414464500552.04),
+  "generationDate":new Date(1415687653834.83),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

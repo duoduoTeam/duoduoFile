@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"装修流程.html",
-  "generationDate":new Date(1414464499216.96),
+  "generationDate":new Date(1415687652658.77),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
